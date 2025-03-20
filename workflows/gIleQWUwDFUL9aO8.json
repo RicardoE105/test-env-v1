@@ -1,0 +1,28 @@
+{
+  "id": "gIleQWUwDFUL9aO8",
+  "name": "another workflow updated",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "034c4e5e-0eb7-4299-b68f-e69204d48f4f",
+      "name": "When clicking ‘Test workflow’"
+    }
+  ],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "cc06fc8d-370a-419b-9016-419d4a2d205d",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": null
+}

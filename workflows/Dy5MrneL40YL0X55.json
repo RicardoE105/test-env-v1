@@ -1,0 +1,29 @@
+{
+  "id": "Dy5MrneL40YL0X55",
+  "name": "this ia. test mollyt",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "cadee48c-d56a-4e01-8029-89d843e91ab0",
+      "name": "Sticky Note"
+    }
+  ],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "7876af62-b662-477c-85d7-a4d94040fbd4",
+  "owner": {
+    "type": "team",
+    "teamId": "buSYfBepIZLYztZA",
+    "teamName": "project to transfer folders to"
+  },
+  "parentFolderId": null
+}

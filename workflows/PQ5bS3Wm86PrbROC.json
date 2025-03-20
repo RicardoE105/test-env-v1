@@ -1,0 +1,17 @@
+{
+  "id": "PQ5bS3Wm86PrbROC",
+  "name": "robertito2",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "9e5d522d-c54e-4435-8193-8520643d57ab",
+  "owner": {
+    "type": "team",
+    "teamId": "buSYfBepIZLYztZA",
+    "teamName": "project to transfer folders to"
+  },
+  "parentFolderId": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ibDn5ZeyS6kzQu9Z",
+  "name": "this is teresa updated",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "a56b9b5a-bb95-4a8c-8f20-092341938780",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "EdEQOW9Dac2kgajL",
+  "name": "My workflow 10",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "a6743bfc-a970-421d-90b4-0f56a3ca7268",
+  "owner": {
+    "type": "team",
+    "teamId": "buSYfBepIZLYztZA",
+    "teamName": "project to transfer folders to"
+  },
+  "parentFolderId": null
+}

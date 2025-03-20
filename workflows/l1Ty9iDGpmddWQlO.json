@@ -1,0 +1,17 @@
+{
+  "id": "l1Ty9iDGpmddWQlO",
+  "name": "deleted workflow",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "6b388661-e20f-4e38-a05c-596efc097d78",
+  "owner": {
+    "type": "team",
+    "teamId": "buSYfBepIZLYztZA",
+    "teamName": "project to transfer folders to"
+  },
+  "parentFolderId": null
+}

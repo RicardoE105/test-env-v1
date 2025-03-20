@@ -1,0 +1,16 @@
+{
+  "id": "fXnCIoRXvvogJmhM",
+  "name": "My workflow 13",
+  "nodes": [],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "triggerCount": 0,
+  "versionId": "413b44fb-6af0-4c8f-a5d2-3c4e4621215a",
+  "owner": {
+    "type": "personal",
+    "personalEmail": "ricardo@n8n.io"
+  },
+  "parentFolderId": null
+}
