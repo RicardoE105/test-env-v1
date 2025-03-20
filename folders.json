@@ -23,6 +23,14 @@
       "homeProjectId": "mvlNse9tTm3JeDvz",
       "createdAt": "2025-03-20T02:27:18.970Z",
       "updatedAt": "2025-03-20T02:27:18.970Z"
+    },
+    {
+      "id": "P8eyYcK430JwA5mx",
+      "name": "yet another folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz",
+      "createdAt": "2025-03-20T03:03:28.686Z",
+      "updatedAt": "2025-03-20T03:03:28.686Z"
     }
   ]
 }
