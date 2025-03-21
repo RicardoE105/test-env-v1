@@ -71,6 +71,14 @@
       "homeProjectId": "mvlNse9tTm3JeDvz",
       "createdAt": "2025-03-21T00:29:27.491Z",
       "updatedAt": "2025-03-21T00:29:27.491Z"
+    },
+    {
+      "id": "8XyyHDC5FFAvRnFu",
+      "name": "another molly folder",
+      "parentFolderId": null,
+      "homeProjectId": "mvlNse9tTm3JeDvz",
+      "createdAt": "2025-03-21T00:31:40.722Z",
+      "updatedAt": "2025-03-21T00:31:40.722Z"
     }
   ]
 }
